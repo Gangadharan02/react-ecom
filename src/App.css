@@ -1,0 +1,14 @@
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.menu{
+  font-size:30px;cursor:pointer; color: #fff;
+}
+
+img.pr1{
+  width: 100%;
+}
